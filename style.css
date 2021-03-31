@@ -1,0 +1,99 @@
+.head{
+      
+    background-color:rgb(222, 111, 234);
+    border:solid;
+     }
+  
+  .grid {
+    background: rgb(133, 112, 112);
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .youtube{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
+  .instagram{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+
